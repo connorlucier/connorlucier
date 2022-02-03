@@ -2,9 +2,9 @@
 
 ### :wave: About Me
 I am a driven, outcome-oriented software engineer who prioritizes strong
-architecture and design across all my projects. Outside of my work, I am
-a nerd who loves to play video games, play the piano, sing, cook, eat and
-travel. I love exploring the world around me and learning more about it!
+architecture and design across all my projects. Outside of my work, I'm a person
+who loves video games, music, sports, cooking, eating and travel. I love exploring
+the world around me and learning more about it!
 
 Some of my favorite projects over the years have combined a handful
 of my passions, such as my college capstone project,
