@@ -3,7 +3,7 @@
 ### :wave: About Me
 I am a driven, outcome-oriented software engineer who prioritizes strong
 architecture and design across all my projects. Outside of my work, I'm a person
-who loves video games, music, sports, cooking, eating and travel. I love exploring
+who loves video games, music, sports, cooking, and travel. I love exploring
 the world around me and learning more about it!
 
 Some of my favorite projects over the years have combined a handful
@@ -12,6 +12,12 @@ of my passions, such as my college capstone project,
 I had a blast designing and implementing the game you see today,
 and there is a ton of potential still yet to be discovered with
 the game itself and the music/rhythm genre of games in general.
+
+Finally, keep an eye on [B3yond Labs](https://github.com/b3yondlabs) for future
+projects and product releases. I have some entrepeneurial projects in the works
+that will redefine what technology can provide for developers and businesses
+alike. I will also be releasing games under the B3yond umbrella going forward,
+so be sure to stay tuned.
 
 ### :computer: Current Employment
 Currently, I am a full-stack software engineer at
@@ -22,12 +28,15 @@ current and prior work experience can be seen in more detail
 on my resume.
 
 ### :zap: Favorite Tech Stacks
-Professionally, I have spent most of my time working in .NET Core,
-using C# in the back end and React on the front end. I am passionate
-about AWS infrastructure and utilize it wherever it makes sense in my
+Professionally, I have spent most of my time working in .NET,
+using C# for back end and React on the front end. However, I am always looking
+to learn new languages, frameworks and more to keep up with the times. Currently,
+this has led me to Golang and Rust. I look forward to using these more and more
+going forward and distancing myself from the Microsoft ecosystem.
+
+I am passionate about AWS infrastructure and utilize it wherever it makes sense in my
 projects. I have strong experience using API Gateway, Lambda, SQS, SNS,
-and many other AWS services and plan to continue learning more in the
-future.
+and many other AWS services and plan to continue learning and growing my expertise.
 
 For databases, I have used SQL Server, MySQL and PostgreSQL most frequently
 for relational databases in combination with a variety of ORM libraries. In
