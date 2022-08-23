@@ -31,7 +31,7 @@ on my resume.
 Professionally, I have spent most of my time working in .NET,
 using C# for back end and React on the front end. However, I am always looking
 to learn new languages, frameworks and more to keep up with the times. Currently,
-this has led me to Golang and Rust. I look forward to using these more and more
+this has led me to Go and Rust. I look forward to using these more and more
 going forward and distancing myself from the Microsoft ecosystem.
 
 I am passionate about AWS infrastructure and utilize it wherever it makes sense in my
